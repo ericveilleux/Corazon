@@ -1,2 +1,2 @@
 # Corazon
-Library for Domain-Driven architectural patterns
+Library for Domain-Driven domain model architectural patterns
